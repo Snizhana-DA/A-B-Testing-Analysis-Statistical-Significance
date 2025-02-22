@@ -1,4 +1,4 @@
-# A-B-Testing-Analysis-Statistical-Significance
+# AB-Testing-Analysis-Statistical-Significance
 
 У цьому проєкті проведено аналіз результатів A/B-тестування за допомогою статистичних методів у Python та створено інтерактивну візуалізацію у Tableau.
 
